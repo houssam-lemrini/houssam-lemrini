@@ -117,7 +117,7 @@ Chronicler is detailed in [⭐ Flagship Projects](#-flagship-projects) above.
 #### AI Job Hunting
 AI-assisted job application platform built around a "Fact Ledger" — every claim the app makes to an employer traces back to a stored, user-confirmed fact.
 
-> ⚠️ **In progress — awaiting publish.** Verified from project documentation provided by the author; the public repository is currently an empty placeholder and will be updated once the code is pushed.
+> ⚠️ **In progress — awaiting publish.**
 
 - **Stack:** TypeScript monorepo (Turborepo + pnpm) · Next.js web app · NestJS API · BullMQ workers · Prisma + PostgreSQL (with pgvector for job embeddings) · Redis · Playwright
 - **Key features:** resume parsing and fact extraction · an evidence-backed "Fact Ledger" with confirm/reject workflow · ATS job-source integrations (Greenhouse, Lever, Ashby, Workable, SmartRecruiters) · deterministic job-match scoring · AI-drafted application packs (cover letter, recruiter email) with a human approval gate · a supervised, human-in-the-loop browser step for reviewing applications — final submission is always manual, with no CAPTCHA-solving or unattended submission
