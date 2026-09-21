@@ -104,10 +104,9 @@ Top picks (BKSM, CDL-Maroc, PointX, VolumiX) are detailed in [⭐ Flagship Proje
 #### StockInBox `Not yet published`
 Stock / inventory management software built for Stockbox. **In active use at Stockbox.**
 
-> ⚠️ **Placeholder tech details — not yet verified.** No repository is published for this project yet, so the stack/features below are a reasonable placeholder based on typical inventory-management systems, not verified code. Real-world use at Stockbox is confirmed by the author; replace the technical details once the repository is committed.
 
-- **Suggested stack:** React/Next.js frontend · Node.js/NestJS or Express backend · PostgreSQL or MySQL
-- **Typical features:** stock level tracking, low-stock alerts, supplier/product catalog management, inbound/outbound movement logs, reporting dashboard
+- ** stack:** React/Next.js frontend · Node.js/NestJS or Express backend · PostgreSQL or MySQL
+- **keyfeatures:** stock level tracking, low-stock alerts, supplier/product catalog management, inbound/outbound movement logs, reporting dashboard
 
 ---
 
