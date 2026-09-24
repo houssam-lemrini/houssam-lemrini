@@ -101,14 +101,7 @@ Face-recognition-based attendance ("pointage") system that detects and recognize
 
 Top picks (BKSM, CDL-Maroc, PointX, VolumiX) are detailed in [⭐ Flagship Projects](#-flagship-projects) above.
 
-#### StockInBox `Not yet published`
-Stock / inventory management software built for Stockbox. **In active use at Stockbox.**
 
-
-- ** stack:** React/Next.js frontend · Node.js/NestJS or Express backend · PostgreSQL or MySQL
-- **keyfeatures:** stock level tracking, low-stock alerts, supplier/product catalog management, inbound/outbound movement logs, reporting dashboard
-
----
 
 ### 🤖 AI & Automation
 
